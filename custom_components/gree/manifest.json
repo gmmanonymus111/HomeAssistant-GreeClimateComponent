@@ -1,11 +1,11 @@
 {
   "domain": "gree",
   "name": "Gree A/C",
-  "version": "2.25.3",
-  "documentation": "https://github.com/RobHofmann/HomeAssistant-GreeClimateComponent",
+  "version": "2.25.7",
+  "documentation": "https://github.com/gmmanonymus111/HomeAssistant-GreeClimateComponent",
   "dependencies": [],
   "codeowners": [
-    "@robhofmann"
+    "@gmmanonymus111"
   ],
   "requirements": [
     "pycryptodome",
